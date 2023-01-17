@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+ul, li {
+    list-style-type: none;
+}
+
+#menu-vertical{
+    color: whitesmoke;
+    background-color: green;
+    width: 150px;
+}
+
+div ul   {
+    display: inline-block;
+    margin-left: -20px;
+
+
+}
+
+
+div ul li ul  {
+    display: none;
+}
