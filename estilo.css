@@ -1,4 +1,11 @@
-a {
+.menu-vertical {
+    background-color: darkgreen;
+    width: 150px;
+    text-align: center;
+    padding: 1em;
+}
+
+a, a:visited {
     text-decoration: none;
     color: whitesmoke;
 }
@@ -7,20 +14,7 @@ ul, li {
     list-style-type: none;
 }
 
-#menu-vertical{
-    color: whitesmoke;
-    background-color: green;
-    width: 150px;
-}
-
-div ul   {
-    display: inline-block;
-    margin-left: -20px;
-
-
-}
-
-
-div ul li ul  {
+.submenu {
     display: none;
 }
+
