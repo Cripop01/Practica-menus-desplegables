@@ -17,10 +17,16 @@ ul, li {
     list-style-type: none;
 }
 
+li {
+    padding: 5px;
+}
+
 .submenu {
     display: none;
     position: absolute;
-    background-color: seagreen;
+    background-color: olivedrab;
+    margin-left: 4px;
+    width: 2501px;
 }
 
 .submenu li {
@@ -29,7 +35,7 @@ ul, li {
 }
 
 .submenu li:hover {
-    background-color: darkgreen;
+    background-color: seagreen;
 }
 
 .menu-vertical li {
