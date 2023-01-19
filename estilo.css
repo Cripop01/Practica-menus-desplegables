@@ -23,6 +23,15 @@ ul, li {
     background-color: seagreen;
 }
 
+.submenu li {
+    margin-left: -40px;
+
+}
+
+.submenu li:hover {
+    background-color: darkgreen;
+}
+
 .menu-vertical li {
     line-height: 30px;
 }
