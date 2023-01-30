@@ -42,6 +42,10 @@ li {
     line-height: 30px;
 }
 
+.menu-vertical a:hover {
+    background-color: seagreen;
+}
+
 .menu-vertical li:hover .submenu {
     display: inline-block;
 }
