@@ -27,6 +27,7 @@ li {
     background-color: olivedrab;
     margin-left: 4px;
     width: 250px;
+    vertical-align: super;
 }
 
 .submenu li {
@@ -48,6 +49,5 @@ li {
 
 .menu-vertical li:hover .submenu {
     display: inline-block;
-    vertical-align: bottom;
 }
 
