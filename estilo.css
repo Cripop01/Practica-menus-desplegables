@@ -48,6 +48,6 @@ li {
 
 .menu-vertical li:hover .submenu {
     display: inline-block;
-    vertical-align: super;
+    vertical-align: bottom;
 }
 
