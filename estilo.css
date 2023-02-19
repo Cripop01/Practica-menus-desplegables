@@ -27,7 +27,7 @@ li {
     background-color: olivedrab;
     margin-left: 4px;
     width: 250px;
-    vertical-align: super;
+    vertical-align: bottom;
 }
 
 .submenu li {
